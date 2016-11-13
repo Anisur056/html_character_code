@@ -1,0 +1,986 @@
+Html Character Codes
+
+    Standard Character Set
+    Extended Character Set
+    Latin Character Set
+    Greek Set
+    Punctuation
+    Mathematical
+    Fractions
+    Arrows
+    Stars
+    Hearts
+    Zodiac
+    Games
+    Numbers
+    Religious & Political Symbols
+    Musical
+    Unicode Shapes and Symbols
+
+Standard Character Set
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+32		&#32;		\0020	0x20	Space
+33	!	&#33;		\0021	0x21	Exclamation mark
+34	"	&#34;	&quot;	\0022	0x22	Double quote
+35	#	&#35;		\0023	0x23	Pound (hash) symbol
+36	$	&#36;		\0024	0x24	Dollar
+37	%	&#37;		\0025	0x25	Percent
+38	&	&#38;	&amp;	\0026	0x26	Ampersand
+39	'	&#39;		\0027	0x27	Single quote
+40	(	&#40;		\0028	0x28	Opening parenthesis
+41	)	&#41;		\0029	0x29	Closing parenthesis
+42	*	&#42;		\002a	0x2a	Asterisk
+43	+	&#43;		\002b	0x2b	Plus sign
+44	,	&#44;		\002c	0x2c	Comma
+45	-	&#45;		\002d	0x2d	Minus sign - Hyphen
+46	.	&#46;		\002e	0x2e	Period
+47	/	&#47;		\002f	0x2f	Forward slash
+48	0	&#48;		\0030	0x30	
+49	1	&#49;		\0031	0x31	
+50	2	&#50;		\0032	0x32	
+51	3	&#51;		\0033	0x33	
+52	4	&#52;		\0034	0x34	
+53	5	&#53;		\0035	0x35	
+54	6	&#54;		\0036	0x36	
+55	7	&#55;		\0037	0x37	
+56	8	&#56;		\0038	0x38	
+57	9	&#57;		\0039	0x39	
+58	:	&#58;		\003a	0x3a	Colon
+59	;	&#59;		\003b	0x3b	Semicolon
+60	<	&#60;		\003c	0x3c	Less than sign
+61	=	&#61;		\003d	0x3d	Equal sign
+62	>	&#62;		\003e	0x3e	Greater than sign
+63	?	&#63;		\003f	0x3f	Question mark
+64	@	&#64;		\0040	0x40	At symbol
+65	A	&#65;		\0041	0x41	
+66	B	&#66;		\0042	0x42	
+67	C	&#67;		\0043	0x43	
+68	D	&#68;		\0044	0x44	
+69	E	&#69;		\0045	0x45	
+70	F	&#70;		\0046	0x46	
+71	G	&#71;		\0047	0x47	
+72	H	&#72;		\0048	0x48	
+73	I	&#73;		\0049	0x49	
+74	J	&#74;		\004a	0x4a	
+75	K	&#75;		\004b	0x4b	
+76	L	&#76;		\004c	0x4c	
+77	M	&#77;		\004d	0x4d	
+78	N	&#78;		\004e	0x4e	
+79	O	&#79;		\004f	0x4f	
+80	P	&#80;		\0050	0x50	
+81	Q	&#81;		\0051	0x51	
+82	R	&#82;		\0052	0x52	
+83	S	&#83;		\0053	0x53	
+84	T	&#84;		\0054	0x54	
+85	U	&#85;		\0055	0x55	
+86	V	&#86;		\0056	0x56	
+87	W	&#87;		\0057	0x57	
+88	X	&#88;		\0058	0x58	
+89	Y	&#89;		\0059	0x59	
+90	Z	&#90;		\005a	0x5a	
+91	[	&#91;		\005b	0x5b	Opening bracket
+92	\	&#92;		\005c	0x5c	Backslash
+93	]	&#93;		\005d	0x5d	Closing bracket
+94	^	&#94;		\005e	0x5e	Caret - circumflex
+95	_	&#95;		\005f	0x5f	Underscore
+96	`	&#96;		\0060	0x60	Grave accent
+97	a	&#97;		\0061	0x61	
+98	b	&#98;		\0062	0x62	
+99	c	&#99;		\0063	0x63	
+100	d	&#100;		\0064	0x64	
+101	e	&#101;		\0065	0x65	
+102	f	&#102;		\0066	0x66	
+103	g	&#103;		\0067	0x67	
+104	h	&#104;		\0068	0x68	
+105	i	&#105;		\0069	0x69	
+106	j	&#106;		\006a	0x6a	
+107	k	&#107;		\006b	0x6b	
+108	l	&#108;		\006c	0x6c	
+109	m	&#109;		\006d	0x6d	
+110	n	&#110;		\006e	0x6e	
+111	o	&#111;		\006f	0x6f	
+112	p	&#112;		\0070	0x70	
+113	q	&#113;		\0071	0x71	
+114	r	&#114;		\0072	0x72	
+115	s	&#115;		\0073	0x73	
+116	t	&#116;		\0074	0x74	
+117	u	&#117;		\0075	0x75	
+118	v	&#118;		\0076	0x76	
+119	w	&#119;		\0077	0x77	
+120	x	&#120;		\0078	0x78	
+121	y	&#121;		\0079	0x79	
+122	z	&#122;		\007a	0x7a	
+123	{	&#123;		\007b	0x7b	Opening brace
+124	|	&#124;		\007c	0x7c	Vertical bar
+125	}	&#125;		\007d	0x7d	Closing brace
+126	~	&#126;		\007e	0x7e	Equivalency sign - tilde
+Extended Character Set
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+160	 	&#160;		\00a0	0xa0	Non-breaking space
+161	¡	&#161;		\00a1	0xa1	Inverted exclamation mark
+162	¢	&#162;		\00a2	0xa2	Cent sign
+163	£	&#163;		\00a3	0xa3	Pound sign
+164	¤	&#164;		\00a4	0xa4	Currency sign
+165	¥	&#165;		\00a5	0xa5	Yen sign
+166	¦	&#166;		\00a6	0xa6	Broken vertical bar
+167	§	&#167;		\00a7	0xa7	Section sign
+168	¨	&#168;		\00a8	0xa8	Spacing diaeresis - umlaut
+169	©	&#169;		\00a9	0xa9	Copyright sign
+170	ª	&#170;		\00aa	0xaa	Feminine ordinal indicator
+171	«	&#171;		\00ab	0xab	Left double angle quotes
+172	¬	&#172;		\00ac	0xac	Not sign
+173	­	&#173;		\00ad	0xad	Soft hyphen
+174	®	&#174;		\00ae	0xae	Registered trade mark sign
+175	¯	&#175;		\00af	0xaf	Spacing macron - overline
+176	°	&#176;		\00b0	0xb0	Degree sign
+177	±	&#177;		\00b1	0xb1	Plus-or-minus sign
+178	²	&#178;		\00b2	0xb2	Superscript two - squared
+179	³	&#179;		\00b3	0xb3	Superscript three - cubed
+180	´	&#180;		\00b4	0xb4	Acute accent - spacing acute
+181	µ	&#181;		\00b5	0xb5	Micro sign
+182	¶	&#182;		\00b6	0xb6	Pilcrow sign - paragraph sign
+183	·	&#183;		\00b7	0xb7	Middle dot - Georgian comma
+184	¸	&#184;		\00b8	0xb8	Spacing cedilla
+185	¹	&#185;		\00b9	0xb9	Superscript one
+186	º	&#186;		\00ba	0xba	Masculine ordinal indicator
+187	»	&#187;		\00bb	0xbb	Right double angle quotes
+191	¿	&#191;		\00bf	0xbf	Inverted question mark
+215	×	&#215;		\00d7	0xd7	Multiplication sign
+247	÷	&#247;		\00f7	0xf7	Division sign
+Latin Character Set
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+192	À	&#192;		\00c0	0xc0	Latin capital letter A with grave
+193	Á	&#193;		\00c1	0xc1	Latin capital letter A with acute
+194	Â	&#194;		\00c2	0xc2	Latin capital letter A with circumflex
+195	Ã	&#195;		\00c3	0xc3	Latin capital letter A with tilde
+196	Ä	&#196;		\00c4	0xc4	Latin capital letter A with diaeresis
+197	Å	&#197;		\00c5	0xc5	Latin capital letter A with ring above
+198	Æ	&#198;		\00c6	0xc6	Latin capital letter AE
+199	Ç	&#199;		\00c7	0xc7	Latin capital letter C with cedilla
+200	È	&#200;		\00c8	0xc8	Latin capital letter E with grave
+201	É	&#201;		\00c9	0xc9	Latin capital letter E with acute
+202	Ê	&#202;		\00ca	0xca	Latin capital letter E with circumflex
+203	Ë	&#203;		\00cb	0xcb	Latin capital letter E with diaeresis
+204	Ì	&#204;		\00cc	0xcc	Latin capital letter I with grave
+205	Í	&#205;		\00cd	0xcd	Latin capital letter I with acute
+206	Î	&#206;		\00ce	0xce	Latin capital letter I with circumflex
+207	Ï	&#207;		\00cf	0xcf	Latin capital letter I with diaeresis
+208	Ð	&#208;		\00d0	0xd0	Latin capital letter ETH
+209	Ñ	&#209;		\00d1	0xd1	Latin capital letter N with tilde
+210	Ò	&#210;		\00d2	0xd2	Latin capital letter O with grave
+211	Ó	&#211;		\00d3	0xd3	Latin capital letter O with acute
+212	Ô	&#212;		\00d4	0xd4	Latin capital letter O with circumflex
+213	Õ	&#213;		\00d5	0xd5	Latin capital letter O with tilde
+214	Ö	&#214;		\00d6	0xd6	Latin capital letter O with diaeresis
+216	Ø	&#216;		\00d8	0xd8	Latin capital letter O with slash
+217	Ù	&#217;		\00d9	0xd9	Latin capital letter U with grave
+218	Ú	&#218;		\00da	0xda	Latin capital letter U with acute
+219	Û	&#219;		\00db	0xdb	Latin capital letter U with circumflex
+220	Ü	&#220;		\00dc	0xdc	Latin capital letter U with diaeresis
+221	Ý	&#221;		\00dd	0xdd	Latin capital letter Y with acute
+222	Þ	&#222;		\00de	0xde	Latin capital letter THORN
+223	ß	&#223;		\00df	0xdf	Latin small letter sharp s - ess-zed
+224	à	&#224;		\00e0	0xe0	Latin small letter a with grave
+225	á	&#225;		\00e1	0xe1	Latin small letter a with acute
+226	â	&#226;		\00e2	0xe2	Latin small letter a with circumflex
+227	ã	&#227;		\00e3	0xe3	Latin small letter a with tilde
+228	ä	&#228;		\00e4	0xe4	Latin small letter a with diaeresis
+229	å	&#229;		\00e5	0xe5	Latin small letter a with ring above
+230	æ	&#230;		\00e6	0xe6	Latin small letter ae
+231	ç	&#231;		\00e7	0xe7	Latin small letter c with cedilla
+232	è	&#232;		\00e8	0xe8	Latin small letter e with grave
+233	é	&#233;		\00e9	0xe9	Latin small letter e with acute
+234	ê	&#234;		\00ea	0xea	Latin small letter e with circumflex
+235	ë	&#235;		\00eb	0xeb	Latin small letter e with diaeresis
+236	ì	&#236;		\00ec	0xec	Latin small letter i with grave
+237	í	&#237;		\00ed	0xed	Latin small letter i with acute
+238	î	&#238;		\00ee	0xee	Latin small letter i with circumflex
+239	ï	&#239;		\00ef	0xef	Latin small letter i with diaeresis
+240	ð	&#240;		\00f0	0xf0	Latin small letter eth
+241	ñ	&#241;		\00f1	0xf1	Latin small letter n with tilde
+242	ò	&#242;		\00f2	0xf2	Latin small letter o with grave
+243	ó	&#243;		\00f3	0xf3	Latin small letter o with acute
+244	ô	&#244;		\00f4	0xf4	Latin small letter o with circumflex
+245	õ	&#245;		\00f5	0xf5	Latin small letter o with tilde
+246	ö	&#246;		\00f6	0xf6	Latin small letter o with diaeresis
+248	ø	&#248;		\00f8	0xf8	Latin small letter o with slash
+249	ù	&#249;		\00f9	0xf9	Latin small letter u with grave
+250	ú	&#250;		\00fa	0xfa	Latin small letter u with acute
+251	û	&#251;		\00fb	0xfb	Latin small letter u with circumflex
+252	ü	&#252;		\00fc	0xfc	Latin small letter u with diaeresis
+253	ý	&#253;		\00fd	0xfd	Latin small letter y with acute
+254	þ	&#254;		\00fe	0xfe	Latin small letter thorn
+255	ÿ	&#255;		\00ff	0xff	Latin small letter y with diaeresis
+338	Œ	&#338;	&OElig;	\00152	0x152	Latin capital letter OE
+339	œ	&#339;	&oelig;	\00153	0x153	Latin small letter oe
+352	Š	&#352;	&Scaron;	\00160	0x160	Latin capital letter S with caron
+353	š	&#353;	&scaron;	\00161	0x161	Latin small letter s with caron
+376	Ÿ	&#376;	&Yuml;	\00178	0x178	Latin capital letter Y with diaeresis
+402	ƒ	&#402;	&fnof;	\00192	0x192	Latin small f with hook - function
+Greek Set
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+913	Α	&#913;	&Alpha;	\00391	0x391	Greek capital letter alpha
+914	Β	&#914;	&Beta;	\00392	0x392	Greek capital letter beta
+915	Γ	&#915;	&Gamma;	\00393	0x393	Greek capital letter gamma
+916	Δ	&#916;	&Delta;	\00394	0x394	Greek capital letter delta
+917	Ε	&#917;	&Epsilon;	\00395	0x395	Greek capital letter epsilon
+918	Ζ	&#918;	&Zeta;	\00396	0x396	Greek capital letter zeta
+919	Η	&#919;	&Eta;	\00397	0x397	Greek capital letter eta
+920	Θ	&#920;	&Theta;	\00398	0x398	Greek capital letter theta
+921	Ι	&#921;	&Iota;	\00399	0x399	Greek capital letter iota
+922	Κ	&#922;	&Kappa;	\0039a	0x39a	Greek capital letter kappa
+923	Λ	&#923;	&Lambda;	\0039b	0x39b	Greek capital letter lambda
+924	Μ	&#924;	&Mu;	\0039c	0x39c	Greek capital letter mu
+925	Ν	&#925;	&Nu;	\0039d	0x39d	Greek capital letter nu
+926	Ξ	&#926;	&Xi;	\0039e	0x39e	Greek capital letter xi
+927	Ο	&#927;	&Omicron;	\0039f	0x39f	Greek capital letter omicron
+928	Π	&#928;	&Pi;	\003a0	0x3a0	Greek capital letter pi
+929	Ρ	&#929;	&Rho;	\003a1	0x3a1	Greek capital letter rho
+931	Σ	&#931;	&Sigma;	\003a3	0x3a3	Greek capital letter sigma
+932	Τ	&#932;	&Tau;	\003a4	0x3a4	Greek capital letter tau
+933	Υ	&#933;	&Upsilon;	\003a5	0x3a5	Greek capital letter upsilon
+934	Φ	&#934;	&Phi;	\003a6	0x3a6	Greek capital letter phi
+935	Χ	&#935;	&Chi;	\003a7	0x3a7	Greek capital letter sigma
+936	Ψ	&#936;	&Psi;	\003a8	0x3a8	Greek capital letter psi
+937	Ω	&#937;	&Omega;	\003a9	0x3a9	Greek capital letter omega
+945	α	&#945;	&alpha;	\003b1	0x3b1	Greek small letter alpha
+946	β	&#946;	&beta;	\003b2	0x3b2	Greek small letter beta
+947	γ	&#947;	&gamma;	\003b3	0x3b3	Greek small letter gamma
+948	δ	&#948;	&delta;	\003b4	0x3b4	Greek small letter delta
+949	ε	&#949;	&epsilon;	\003b5	0x3b5	Greek small letter epsilon
+950	ζ	&#950;	&zeta;	\003b6	0x3b6	Greek small letter zeta
+951	η	&#951;	&eta;	\003b7	0x3b7	Greek small letter eta
+952	θ	&#952;	&theta;	\003b8	0x3b8	Greek small letter theta
+953	ι	&#953;	&iota;	\003b9	0x3b9	Greek small letter iota
+954	κ	&#954;	&kappa;	\003ba	0x3ba	Greek small letter kappa
+955	λ	&#955;	&lambda;	\003bb	0x3bb	Greek small letter lambda
+956	μ	&#956;	&mu;	\003bc	0x3bc	Greek small letter mu
+957	ν	&#957;	&nu;	\003bd	0x3bd	Greek small letter nu
+958	ξ	&#958;	&xi;	\003be	0x3be	Greek small letter xi
+959	ο	&#959;	&omicron;	\003bf	0x3bf	Greek small letter omicron
+960	π	&#960;	&pi;	\003c0	0x3c0	Greek small letter pi
+961	ρ	&#961;	&rho;	\003c1	0x3c1	Greek small letter rho
+962	ς	&#962;	&sigmaf;	\003c2	0x3c2	Greek small letter final sigma
+963	σ	&#963;	&sigma;	\003c3	0x3c3	Greek small letter sigma
+964	τ	&#964;	&tau;	\003c4	0x3c4	Greek small letter tau
+965	υ	&#965;	&upsilon;	\003c5	0x3c5	Greek small letter upsilon
+966	φ	&#966;	&phi;	\003c6	0x3c6	Greek small letter phi
+967	χ	&#967;	&chi;	\003c7	0x3c7	Greek small letter chi
+968	ψ	&#968;	&psi;	\003c8	0x3c8	Greek small letter psi
+969	ω	&#969;	&omega;	\003c9	0x3c9	Greek small letter omega
+977	ϑ	&#977;	&thetasym;	\003d1	0x3d1	Greek small letter theta symbol
+978	ϒ	&#978;	&upsih;	\003d2	0x3d2	Greek upsilon with hook symbol
+982	ϖ	&#982;	&piv;	\003d6	0x3d6	Greek pi symbol
+Punctuation
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+8211	–	&#8211;	&ndash;	\002013	0x2013	En dash
+8212	—	&#8212;	&mdash;	\002014	0x2014	Em dash
+8216	‘	&#8216;	&lsquo;	\002018	0x2018	Left single quotation mark
+8217	’	&#8217;	&rsquo;	\002019	0x2019	Right single quotation mark
+8218	‚	&#8218;	&sbquo;	\00201a	0x201a	Single low-9 quotation mark
+8220	“	&#8220;	&ldquo;	\00201c	0x201c	Left double quotation mark
+8221	”	&#8221;	&rdquo;	\00201d	0x201d	Right double quotation mark
+8222	„	&#8222;	&bdquo;	\00201e	0x201e	Double low-9 quotation mark
+8224	†	&#8224;	&dagger;	\002020	0x2020	Dagger
+8225	‡	&#8225;	&Dagger;	\002021	0x2021	Double dagger
+8226	•	&#8226;	&bull;	\002022	0x2022	Bullet
+8230	…	&#8230;	&hellip;	\002026	0x2026	Horizontal ellipsis
+8240	‰	&#8240;	&permil;	\002030	0x2030	Per thousand sign
+8241	‱	&#8241;		\002031	0x2031	Per thousand sign
+8251	※	&#8251;		\00203b	0x203b	Komejirushi
+8252	‼	&#8252;		\00203c	0x203c	Double exclamation mark
+8253	‽	&#8253;		\00203d	0x203d	Exclamation question
+8254	‾	&#8254;	&oline;	\00203e	0x203e	Overline, a.k.a. spacing overscore
+8257	⁁	&#8257;		\002041	0x2041	Caret Insertion Point
+8258	⁂	&#8258;		\002042	0x2042	Asterism
+8263	⁇	&#8263;		\002047	0x2047	Double question
+8264	⁈	&#8264;		\002048	0x2048	Question Exclamation
+8265	⁉	&#8265;		\002049	0x2049	Exclamation Question
+8273	⁑	&#8273;		\002051	0x2051	Double asterisk
+8364	€	&#8364;	&euro;	\0020ac	0x20ac	Euro sign
+8482	™	&#8482;	&trade;	\002122	0x2122	Trade mark sign
+8704	∀	&#8704;	&forall;	\002200	0x2200	For all
+10077	❝	&#10077;		\00275d	0x275d	Heavy double turned comma quotation mark ornament
+10078	❞	&#10078;		\00275e	0x275e	Heavy double comma quotation mark ornament
+Mathematical
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+8706	∂	&#8706;	&part;	\002202	0x2202	Partial differential
+8707	∃	&#8707;	&exist;	\002203	0x2203	There exists
+8709	∅	&#8709;	&empty;	\002205	0x2205	Empty set, null set, diameter
+8711	∇	&#8711;	&nabla;	\002207	0x2207	Nabla, backward difference
+8712	∈	&#8712;	&isin;	\002208	0x2208	Element of
+8713	∉	&#8713;	&notin;	\002209	0x2209	Not an element of
+8715	∋	&#8715;	&ni;	\00220b	0x220b	Contains as member
+8719	∏	&#8719;	&prod;	\00220f	0x220f	n-ary product
+8721	∑	&#8721;	&sum;	\002211	0x2211	n-ary sumation
+8722	−	&#8722;	&minus;	\002212	0x2212	Minus sign
+8723	∓	&#8723;		\002213	0x2213	Minus-or-plus sign
+8724	∔	&#8724;		\002214	0x2214	Dot plus
+8725	∕	&#8725;		\002215	0x2215	Division slash
+8726	∖	&#8726;		\002216	0x2216	Set minus
+8727	∗	&#8727;	&lowast;	\002217	0x2217	Asterisk operator
+8730	√	&#8730;	&radic;	\00221a	0x221a	Square root
+8731	∛	&#8731;		\00221b	0x221b	Cube Root
+8732	∜	&#8732;		\00221c	0x221c	Root
+8733	∝	&#8733;	&prop;	\00221d	0x221d	Proportional to
+8734	∞	&#8734;	&infin;	\00221e	0x221e	Infinity
+8736	∠	&#8736;	&ang;	\002220	0x2220	Angle
+8743	∧	&#8743;	&and;	\002227	0x2227	Logical AND, or wedge
+8745	∩	&#8745;	&cap;	\002229	0x2229	Intersection, or cap
+8746	∪	&#8746;	&cup;	\00222a	0x222a	Union, or cup
+8747	∫	&#8747;	&int;	\00222b	0x222b	Integral
+8748	∬	&#8748;		\00222c	0x222c	Double integral
+8749	∭	&#8749;		\00222d	0x222d	Triple integral
+8750	∮	&#8750;		\00222e	0x222e	Line integral
+8751	∯	&#8751;		\00222f	0x222f	Double line integral
+8752	∰	&#8752;		\002230	0x2230	Triple line integral
+8756	∴	&#8756;	&there4;	\002234	0x2234	Therefore
+8757	∵	&#8757;		\002235	0x2235	Because sign
+8758	∶	&#8758;		\002236	0x2236	Ratio
+8759	∷	&#8759;		\002237	0x2237	Proportion
+8763	∻	&#8763;		\00223b	0x223b	Homothetic preferences
+8764	∼	&#8764;	&sim;	\00223c	0x223c	Tilde operator, or varies with
+8765	∽	&#8765;		\00223d	0x223d	Approximation
+8768	≀	&#8768;		\002240	0x2240	Wreath product
+8773	≅	&#8773;	&cong;	\002245	0x2245	Approximately equal to
+8776	≈	&#8776;	&asymp;	\002248	0x2248	Almost equal to, asymptotic to
+8800	≠	&#8800;	&ne;	\002260	0x2260	Not equal to
+8801	≡	&#8801;	&equiv;	\002261	0x2261	Identical to
+8804	≤	&#8804;	&le;	\002264	0x2264	Less-than or equal to
+8805	≥	&#8805;	&ge;	\002265	0x2265	Greater-than or equal to
+8834	⊂	&#8834;	&sub;	\002282	0x2282	Subset of
+8835	⊃	&#8835;	&sup;	\002283	0x2283	Superset of
+8836	⊄	&#8836;	&nsub;	\002284	0x2284	Not a subset of
+8838	⊆	&#8838;	&sube;	\002286	0x2286	Subset of or equal to
+8839	⊇	&#8839;	&supe;	\002287	0x2287	Superset of or equal to
+8853	⊕	&#8853;	&oplus;	\002295	0x2295	Circled plus, direct sum
+8854	⊖	&#8854;		\002296	0x2296	Circled minus
+8855	⊗	&#8855;	&otimes;	\002297	0x2297	Circled times, vector product
+8856	⊘	&#8856;		\002298	0x2298	Circled divide
+8857	⊙	&#8857;		\002299	0x2299	Circled dot
+8858	⊚	&#8858;		\00229a	0x229a	Circled circle
+8859	⊛	&#8859;		\00229b	0x229b	Circled asterisk
+8860	⊜	&#8860;		\00229c	0x229c	Circled equals
+8861	⊝	&#8861;		\00229d	0x229d	Circled minus
+8869	⊥	&#8869;	&perp;	\0022a5	0x22a5	Up tack, orthogonal to, perpendicular
+8870	⊦	&#8870;	&or;	\0022a6	0x22a6	Logical OR, or vee
+8901	⋅	&#8901;	&sdot;	\0022c5	0x22c5	Dot operator
+8968	⌈	&#8968;		\002308	0x2308	Left ceiling, a.k.a. apl upstile
+8969	⌉	&#8969;		\002309	0x2309	Right ceiling
+8970	⌊	&#8970;		\00230a	0x230a	Left floor, apl downstile
+8971	⌋	&#8971;		\00230b	0x230b	Right floor
+9642	▪	&#9642;		\0025aa	0x25aa	Black small square
+9673	◉	&#9673;		\0025c9	0x25c9	Fisheye
+9674	◊	&#9674;		\0025ca	0x25ca	Lozenge
+9675	○	&#9675;		\0025cb	0x25cb	White circle
+9678	◎	&#9678;		\0025ce	0x25ce	Bullseye
+9734	☆	&#9734;		\002606	0x2606	White 5 point star
+Fractions
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+188	¼	&#188;	&frac14;	\00bc	0xbc	Fraction one quarter
+189	½	&#189;	&frac12;	\00bd	0xbd	Fraction one half
+190	¾	&#190;	&frac34;	\00be	0xbe	Fraction three quarters
+8533	⅕	&#8533;		\002155	0x2155	Fraction one fifth
+8534	⅖	&#8534;		\002156	0x2156	Fraction two fifths
+8535	⅗	&#8535;		\002157	0x2157	Fraction three fifths
+8536	⅘	&#8536;		\002158	0x2158	Fraction four fifths
+8537	⅙	&#8537;		\002159	0x2159	Fraction one sixth
+8538	⅚	&#8538;		\00215a	0x215a	Fraction five sixths
+8539	⅛	&#8539;		\00215b	0x215b	Fraction one eighth
+8540	⅜	&#8540;		\00215c	0x215c	Fraction three eighths
+8541	⅝	&#8541;		\00215d	0x215d	Fraction five eighths
+8542	⅞	&#8542;		\00215e	0x215e	Fraction seven eighths
+Arrows
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+8592	←	&#8592;		\002190	0x2190	Leftwards arrow
+8593	↑	&#8593;		\002191	0x2191	Upwards arrow
+8594	→	&#8594;		\002192	0x2192	Rightwards arrow
+8595	↓	&#8595;		\002193	0x2193	Downwards arrow
+8596	↔	&#8596;		\002194	0x2194	Left right arrow
+8597	↕	&#8597;		\002195	0x2195	Up down arrow
+8598	↖	&#8598;		\002196	0x2196	North west arrow
+8599	↗	&#8599;		\002197	0x2197	North east arrow
+8600	↘	&#8600;		\002198	0x2198	South east arrow
+8601	↙	&#8601;		\002199	0x2199	South west arrow
+8602	↚	&#8602;		\00219a	0x219a	Leftwards arrow with stroke
+8603	↛	&#8603;		\00219b	0x219b	Rightwards arrow with stroke
+8604	↜	&#8604;		\00219c	0x219c	Leftwards wave arrow
+8605	↝	&#8605;		\00219d	0x219d	Rightwards wave arrow
+8606	↞	&#8606;		\00219e	0x219e	Leftwards two headed arrow
+8607	↟	&#8607;		\00219f	0x219f	Upwards two headed arrow
+8608	↠	&#8608;		\0021a0	0x21a0	Rightwards two headed arrow
+8609	↡	&#8609;		\0021a1	0x21a1	Downwards two headed arrow
+8610	↢	&#8610;		\0021a2	0x21a2	Leftwards arrow with tail
+8611	↣	&#8611;		\0021a3	0x21a3	Rightwards arrow with tail
+8612	↤	&#8612;		\0021a4	0x21a4	Leftwards arrow from bar
+8613	↥	&#8613;		\0021a5	0x21a5	Upwards arrow from bar
+8614	↦	&#8614;		\0021a6	0x21a6	Downwards arrow from bar
+8616	↨	&#8616;		\0021a8	0x21a8	Up down arrow with base
+8617	↩	&#8617;		\0021a9	0x21a9	Leftwards arrow with hook
+8618	↪	&#8618;		\0021aa	0x21aa	Rightwards arrow with hook
+8619	↫	&#8619;		\0021ab	0x21ab	Leftwards arrow with loop
+8620	↬	&#8620;		\0021ac	0x21ac	Rightwards arrow with loop
+8621	↭	&#8621;		\0021ad	0x21ad	Left right wave arrow
+8622	↮	&#8622;		\0021ae	0x21ae	Left right arrow with stroke
+8623	↯	&#8623;		\0021af	0x21af	Downwards zigzag arrow
+8624	↰	&#8624;		\0021b0	0x21b0	Upwards arrow with tip leftwards
+8625	↱	&#8625;		\0021b1	0x21b1	Upwards arrow with tip rightwards
+8626	↲	&#8626;		\0021b2	0x21b2	Downwards arrow with tip leftwards
+8627	↳	&#8627;		\0021b3	0x21b3	Downwards arrow with tip rightwards
+8628	↴	&#8628;		\0021b4	0x21b4	Rightwards arrow with corner downwards
+8629	↵	&#8629;		\0021b5	0x21b5	Downwards arrow with corner leftwards
+8630	↶	&#8630;		\0021b6	0x21b6	Anticlockwise top semicircle arrow
+8631	↷	&#8631;		\0021b7	0x21b7	Clockwise top semicircle arrow
+8632	↸	&#8632;		\0021b8	0x21b8	North west arrow to long bar
+8633	↹	&#8633;		\0021b9	0x21b9	Leftwards arrow to bar over rightwards arrow to bar
+8634	↺	&#8634;		\0021ba	0x21ba	Anticlockwise open circle arrow
+8635	↻	&#8635;		\0021bb	0x21bb	Clockwise open circle arrow
+8636	↼	&#8636;		\0021bc	0x21bc	Leftwards harpoon with barb upwards
+8637	↽	&#8637;		\0021bd	0x21bd	Leftwards harpoon with barb downwards
+8638	↾	&#8638;		\0021be	0x21be	Upwards harpoon with barb rightwards
+8639	↿	&#8639;		\0021bf	0x21bf	Upwards harpoon with barb leftwards
+8640	⇀	&#8640;		\0021c0	0x21c0	Rightwards harpoon with barb upwards
+8641	⇁	&#8641;		\0021c1	0x21c1	Rightwards harpoon with barb downwards
+8642	⇂	&#8642;		\0021c2	0x21c2	Downwards harpoon with barb rightwards
+8643	⇃	&#8643;		\0021c3	0x21c3	Downwards harpoon with barb leftwards
+8644	⇄	&#8644;		\0021c4	0x21c4	Rightwards arrow over leftwards arrow
+8645	⇅	&#8645;		\0021c5	0x21c5	Upwards arrow leftwards of downwards arrow
+8646	⇆	&#8646;		\0021c6	0x21c6	Leftwards arrow over rightwards arrow
+8647	⇇	&#8647;		\0021c7	0x21c7	Leftwards paired arrows
+8648	⇈	&#8648;		\0021c8	0x21c8	Upwards paired arrows
+8649	⇉	&#8649;		\0021c9	0x21c9	Rightwards paired arrows
+8650	⇊	&#8650;		\0021ca	0x21ca	Downwards paired arrows
+8651	⇋	&#8651;		\0021cb	0x21cb	Leftwards harpoon over rightwards harpoon
+8652	⇌	&#8652;		\0021cc	0x21cc	Rightwards harpoon over leftwards harpoon
+8653	⇍	&#8653;		\0021cd	0x21cd	Leftwards double arrow with stroke
+8654	⇎	&#8654;		\0021ce	0x21ce	Left right double arrow with stroke
+8655	⇏	&#8655;		\0021cf	0x21cf	Rightwards double arrow with stroke
+8656	⇐	&#8656;		\0021d0	0x21d0	Leftwards double arrow
+8657	⇑	&#8657;		\0021d1	0x21d1	Upwards double arrow
+8658	⇒	&#8658;		\0021d2	0x21d2	Rightwards double arrow
+8659	⇓	&#8659;		\0021d3	0x21d3	Downwards double arrow
+8660	⇔	&#8660;		\0021d4	0x21d4	Left right double arrow
+8661	⇕	&#8661;		\0021d5	0x21d5	Up down double arrow
+8662	⇖	&#8662;		\0021d6	0x21d6	North west double arrow
+8663	⇗	&#8663;		\0021d7	0x21d7	North east double arrow
+8664	⇘	&#8664;		\0021d8	0x21d8	South east double arrow
+8665	⇙	&#8665;		\0021d9	0x21d9	South west double arrow
+8666	⇚	&#8666;		\0021da	0x21da	Leftwards triple arrow
+8667	⇛	&#8667;		\0021db	0x21db	Rightwards triple arrow
+8668	⇜	&#8668;		\0021dc	0x21dc	Leftwards squiggle arrow
+8669	⇝	&#8669;		\0021dd	0x21dd	Rightwards squiggle arrow
+8670	⇞	&#8670;		\0021de	0x21de	Upwards arrow with double stroke
+8671	⇟	&#8671;		\0021df	0x21df	Downwards arrow with double stroke
+8672	⇠	&#8672;		\0021e0	0x21e0	Leftwards dashed arrow
+8673	⇡	&#8673;		\0021e1	0x21e1	Upwards dashed arrow
+8674	⇢	&#8674;		\0021e2	0x21e2	Rightwards dashed arrow
+8675	⇣	&#8675;		\0021e3	0x21e3	Downwards dashed arrow
+8676	⇤	&#8676;		\0021e4	0x21e4	Leftwards arrow to bar
+8677	⇥	&#8677;		\0021e5	0x21e5	Rightwards arrow to bar
+8678	⇦	&#8678;		\0021e6	0x21e6	Leftwards white arrow
+8679	⇧	&#8679;		\0021e7	0x21e7	Upwards white arrow
+8680	⇨	&#8680;		\0021e8	0x21e8	Rightwards white arrow
+8681	⇩	&#8681;		\0021e9	0x21e9	Downwards white arrow
+10136	➘	&#10136;		\002798	0x2798	Heavy south east arrow
+10137	➙	&#10137;		\002799	0x2799	Heavy rightwards arrow
+10138	➚	&#10138;		\00279a	0x279a	Heavy north east arrow
+10139	➛	&#10139;		\00279b	0x279b	Drafting point rightwards arrow
+10140	➜	&#10140;		\00279c	0x279c	Heavy round-tipped rightwards arrow
+10141	➝	&#10141;		\00279d	0x279d	Triangle-headed rightwards arrow
+10142	➞	&#10142;		\00279e	0x279e	Heavy triangle-headed rightwards arrow
+10143	➟	&#10143;		\00279f	0x279f	Dashed triangle-headed rightwards arrow
+10144	➠	&#10144;		\0027a0	0x27a0	Heavy dashed triangle-headed rightwards arrow
+10145	➡	&#10145;		\0027a1	0x27a1	Black rightwards arrow
+10146	➢	&#10146;		\0027a2	0x27a2	Three-d top-lighted rightwards arrowhead
+10147	➣	&#10147;		\0027a3	0x27a3	Three-d bottom-lighted rightwards arrowhead
+10148	➤	&#10148;		\0027a4	0x27a4	Black rightwards arrowhead
+10149	➥	&#10149;		\0027a5	0x27a5	Heavy black curved upwards and rightwards arrow
+10151	➧	&#10151;		\0027a7	0x27a7	Squat black rightwards arrow
+10152	➨	&#10152;		\0027a8	0x27a8	Heavy concave-pointed black rightwards arrow
+10153	➩	&#10153;		\0027a9	0x27a9	Right-shaded white rightwards arrow
+10154	➪	&#10154;		\0027aa	0x27aa	Left-shaded white rightwards arrow
+10155	➫	&#10155;		\0027ab	0x27ab	Back-tilted shadowed white rightwards arrow
+10156	➬	&#10156;		\0027ac	0x27ac	Front-tilted shadowed white rightwards arrow
+10157	➭	&#10157;		\0027ad	0x27ad	Heavy lower right-shadowed white rightwards arrow
+10158	➮	&#10158;		\0027ae	0x27ae	Heavy upper right-shadowed white rightwards arrow
+10159	➯	&#10159;		\0027af	0x27af	Notched lower right-shadowed white rightwards arrow
+10161	➱	&#10161;		\0027b1	0x27b1	Notched upper right-shadowed white rightwards arrow
+10162	➲	&#10162;		\0027b2	0x27b2	Circled heavy white rightwards arrow
+10163	➳	&#10163;		\0027b3	0x27b3	White-feathered rightwards arrow
+10164	➴	&#10164;		\0027b4	0x27b4	Black-feathered south east arrow
+10165	➵	&#10165;		\0027b5	0x27b5	Black-feathered rightwards arrow
+10166	➶	&#10166;		\0027b6	0x27b6	Black-feathered north east arrow
+10167	➷	&#10167;		\0027b7	0x27b7	Heavy black-feathered south east arrow
+10168	➸	&#10168;		\0027b8	0x27b8	Heavy black-feathered rightwards arrow
+10169	➹	&#10169;		\0027b9	0x27b9	Heavy black-feathered north east arrow
+10170	➺	&#10170;		\0027ba	0x27ba	Teardrop-barbed rightwards arrow
+10171	➻	&#10171;		\0027bb	0x27bb	Heavy teardrop-shanked rightwards arrow
+10172	➼	&#10172;		\0027bc	0x27bc	Wedge-tailed rightwards arrow
+10173	➽	&#10173;		\0027bd	0x27bd	Heavy wedge-tailed rightwards arrow
+10174	➾	&#10174;		\0027be	0x27be	Open-outlined rightwards arrow
+Stars
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+8902	⋆	&#8902;		\0022c6	0x22c6	5 point star
+9733	★	&#9733;		\002605	0x2605	Black 5 point star
+9885	⚝	&#9885;		\00269d	0x269d	Outlined white star
+9956	⛤	&#9956;		\0026e4	0x26e4	
+9957	⛥	&#9957;		\0026e5	0x26e5	
+9958	⛦	&#9958;		\0026e6	0x26e6	
+9959	⛧	&#9959;		\0026e7	0x26e7	
+10018	✢	&#10018;		\002722	0x2722	Four teardrop-spoked asterisk
+10019	✣	&#10019;		\002723	0x2723	Four balloon-spoked asterisk
+10020	✤	&#10020;		\002724	0x2724	Heavy four balloon-spoked asterisk
+10021	✥	&#10021;		\002725	0x2725	Four club-spoked asterisk
+10022	✦	&#10022;		\002726	0x2726	Black four pointed star
+10023	✧	&#10023;		\002727	0x2727	White four pointed star
+10024	✨	&#10024;		\002728	0x2728	
+10025	✩	&#10025;		\002729	0x2729	Stress outlined white star
+10026	✪	&#10026;		\00272a	0x272a	Circled white star
+10027	✫	&#10027;		\00272b	0x272b	Open centre black star
+10028	✬	&#10028;		\00272c	0x272c	Black centre white star
+10029	✭	&#10029;		\00272d	0x272d	Outlined black star
+10030	✮	&#10030;		\00272e	0x272e	Heavy outlined black star
+10031	✯	&#10031;		\00272f	0x272f	Pinwheel star
+10032	✰	&#10032;		\002730	0x2730	Shadowed white star
+10033	✱	&#10033;		\002731	0x2731	Heavy asterisk
+10034	✲	&#10034;		\002732	0x2732	Open centre asterisk
+10035	✳	&#10035;		\002733	0x2733	Eight spoked asterisk
+10036	✴	&#10036;		\002734	0x2734	Eight pointed black star
+10037	✵	&#10037;		\002735	0x2735	Eight pointed pinwheel star
+10038	✶	&#10038;		\002736	0x2736	Six pointed black star
+10039	✷	&#10039;		\002737	0x2737	Heavy eight pointed rectilinear black star
+10041	✹	&#10041;		\002739	0x2739	Twelve pointed black star
+10042	✺	&#10042;		\00273a	0x273a	Sixteen pointed asterisk
+10043	✻	&#10043;		\00273b	0x273b	Teardrop-spoked asterisk
+10044	✼	&#10044;		\00273c	0x273c	Open centre teardrop-spoked asterisk
+10045	✽	&#10045;		\00273d	0x273d	Heavy teardrop-spoked asterisk
+10046	✾	&#10046;		\00273e	0x273e	Six petalled black and white florette
+10050	❂	&#10050;		\002742	0x2742	Circled open centre eight pointed star
+10051	❃	&#10051;		\002743	0x2743	Heavy teardrop-spoked pinwheel asterisk
+10053	❅	&#10053;		\002745	0x2745	Tight trifoliate snowflake
+10054	❆	&#10054;		\002746	0x2746	Heavy chevron snowflake
+10055	❇	&#10055;		\002747	0x2747	Sparkle
+10056	❈	&#10056;		\002748	0x2748	Heavy sparkle
+10057	❉	&#10057;		\002749	0x2749	Balloon-spoked asterisk
+10058	❊	&#10058;		\00274a	0x274a	Eight teardrop-spoked propeller asterisk
+10059	❋	&#10059;		\00274b	0x274b	Heavy eight teardrop-spoked propeller asterisk
+Hearts
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+10083	❣	&#10083;		\002763	0x2763	Exclamation Heart
+10084	❤	&#10084;		\002764	0x2764	Big Heart
+10085	❥	&#10085;		\002765	0x2765	Rotated Heart
+10086	❦	&#10086;		\002766	0x2766	Floral Heart
+128147	💓	&#128147;		\001f493	0x1f493	Heart Pulse
+128148	💔	&#128148;		\001f494	0x1f494	Broken Heart
+128149	💕	&#128149;		\001f495	0x1f495	Heart Couple
+128150	💖	&#128150;		\001f496	0x1f496	Heart Stars
+128151	💗	&#128151;		\001f497	0x1f497	Hearts
+128152	💘	&#128152;		\001f498	0x1f498	Heart with Arrow
+128153	💙	&#128153;		\001f499	0x1f499	Blue Heart
+128154	💚	&#128154;		\001f49a	0x1f49a	Green Heart
+128155	💛	&#128155;		\001f49b	0x1f49b	Yellow Heart
+128156	💜	&#128156;		\001f49c	0x1f49c	Purple Heart
+128157	💝	&#128157;		\001f49d	0x1f49d	Heart with Ribbon
+128158	💞	&#128158;		\001f49e	0x1f49e	Hearts Together
+Zodiac
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+9800	♈	&#9800;		\002648	0x2648	Aries
+9801	♉	&#9801;		\002649	0x2649	Taurus
+9802	♊	&#9802;		\00264a	0x264a	Gemini
+9803	♋	&#9803;		\00264b	0x264b	Cancer
+9804	♌	&#9804;		\00264c	0x264c	Leo
+9805	♍	&#9805;		\00264d	0x264d	Virgo
+9806	♎	&#9806;		\00264e	0x264e	Libra
+9807	♏	&#9807;		\00264f	0x264f	Scorpio
+9808	♐	&#9808;		\002650	0x2650	Sagittarius
+9809	♑	&#9809;		\002651	0x2651	Capricorn
+9810	♒	&#9810;		\002652	0x2652	Aquarius
+9811	♓	&#9811;		\002653	0x2653	Pisces
+Games
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+9812	♔	&#9812;		\002654	0x2654	White chess king
+9813	♕	&#9813;		\002655	0x2655	White chess queen
+9814	♖	&#9814;		\002656	0x2656	White chess rook
+9815	♗	&#9815;		\002657	0x2657	White chess bishop
+9816	♘	&#9816;		\002658	0x2658	White chess knight
+9817	♙	&#9817;		\002659	0x2659	White chess pawn
+9818	♚	&#9818;		\00265a	0x265a	Black chess king
+9819	♛	&#9819;		\00265b	0x265b	Black chess queen
+9820	♜	&#9820;		\00265c	0x265c	Black chess rook
+9821	♝	&#9821;		\00265d	0x265d	Black chess bishop
+9822	♞	&#9822;		\00265e	0x265e	Black chess knight
+9823	♟	&#9823;		\00265f	0x265f	Black chess pawn
+9824	♠	&#9824;	&spades;	\002660	0x2660	Black Spade suit
+9825	♡	&#9825;		\002661	0x2661	White Heart suit, valentine
+9826	♢	&#9826;		\002662	0x2662	White Diamond suit
+9827	♣	&#9827;	&clubs;	\002663	0x2663	Black Club suit, shamrock
+9828	♤	&#9828;		\002664	0x2664	White Spade suit
+9829	♥	&#9829;	&hearts;	\002665	0x2665	Black Heart suit, valentine
+9830	♦	&#9830;	&diams;	\002666	0x2666	Black Diamond suit
+9831	♧	&#9831;		\002667	0x2667	White Club suit, shamrock
+9856	⚀	&#9856;		\002680	0x2680	Die 1
+9857	⚁	&#9857;		\002681	0x2681	Die 2
+9858	⚂	&#9858;		\002682	0x2682	Die 3
+9859	⚃	&#9859;		\002683	0x2683	Die 4
+9860	⚄	&#9860;		\002684	0x2684	Die 5
+9861	⚅	&#9861;		\002685	0x2685	Die 6
+9917	⚽	&#9917;		\0026bd	0x26bd	
+9918	⚾	&#9918;		\0026be	0x26be	
+9975	⛷	&#9975;		\0026f7	0x26f7	
+9976	⛸	&#9976;		\0026f8	0x26f8	
+9977	⛹	&#9977;		\0026f9	0x26f9	
+Numbers
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+9312	①	&#9312;		\002460	0x2460	Circled digit one
+9313	②	&#9313;		\002461	0x2461	Circled digit two
+9314	③	&#9314;		\002462	0x2462	Circled digit three
+9315	④	&#9315;		\002463	0x2463	Circled digit four
+9316	⑤	&#9316;		\002464	0x2464	Circled digit five
+9317	⑥	&#9317;		\002465	0x2465	Circled digit six
+9318	⑦	&#9318;		\002466	0x2466	Circled digit seven
+9319	⑧	&#9319;		\002467	0x2467	Circled digit eight
+9320	⑨	&#9320;		\002468	0x2468	Circled digit nine
+9321	⑩	&#9321;		\002469	0x2469	Circled number ten
+9322	⑪	&#9322;		\00246a	0x246a	Circled number eleven
+9323	⑫	&#9323;		\00246b	0x246b	Circled number twelve
+9324	⑬	&#9324;		\00246c	0x246c	Circled number thirteen
+9325	⑭	&#9325;		\00246d	0x246d	Circled number fourteen
+9326	⑮	&#9326;		\00246e	0x246e	Circled number fifteen
+9327	⑯	&#9327;		\00246f	0x246f	Circled number sixteen
+9328	⑰	&#9328;		\002470	0x2470	Circled number seventeen
+9329	⑱	&#9329;		\002471	0x2471	Circled number eighteen
+9330	⑲	&#9330;		\002472	0x2472	Circled number nineteen
+9331	⑳	&#9331;		\002473	0x2473	Circled number twenty
+9332	⑴	&#9332;		\002474	0x2474	Parenthesized digit one
+9333	⑵	&#9333;		\002475	0x2475	Parenthesized digit two
+9334	⑶	&#9334;		\002476	0x2476	Parenthesized digit three
+9335	⑷	&#9335;		\002477	0x2477	Parenthesized digit four
+9336	⑸	&#9336;		\002478	0x2478	Parenthesized digit five
+9337	⑹	&#9337;		\002479	0x2479	Parenthesized digit six
+9338	⑺	&#9338;		\00247a	0x247a	Parenthesized digit seven
+9339	⑻	&#9339;		\00247b	0x247b	Parenthesized digit eight
+9340	⑼	&#9340;		\00247c	0x247c	Parenthesized digit nine
+9341	⑽	&#9341;		\00247d	0x247d	Parenthesized number ten
+9342	⑾	&#9342;		\00247e	0x247e	Parenthesized number eleven
+9343	⑿	&#9343;		\00247f	0x247f	Parenthesized number twelve
+9344	⒀	&#9344;		\002480	0x2480	Parenthesized number thirteen
+9345	⒁	&#9345;		\002481	0x2481	Parenthesized number fourteen
+9346	⒂	&#9346;		\002482	0x2482	Parenthesized number fifteen
+9347	⒃	&#9347;		\002483	0x2483	Parenthesized number sixteen
+9348	⒄	&#9348;		\002484	0x2484	Parenthesized number seventeen
+9349	⒅	&#9349;		\002485	0x2485	Parenthesized number eighteen
+9350	⒆	&#9350;		\002486	0x2486	Parenthesized number nineteen
+9351	⒇	&#9351;		\002487	0x2487	Parenthesized number twenty
+9352	⒈	&#9352;		\002488	0x2488	Digit one full stop
+9353	⒉	&#9353;		\002489	0x2489	Digit two full stop
+9354	⒊	&#9354;		\00248a	0x248a	Digit three full stop
+9355	⒋	&#9355;		\00248b	0x248b	Digit four full stop
+9356	⒌	&#9356;		\00248c	0x248c	Digit five full stop
+9357	⒍	&#9357;		\00248d	0x248d	Digit six full stop
+9358	⒎	&#9358;		\00248e	0x248e	Digit seven full stop
+9359	⒏	&#9359;		\00248f	0x248f	Digit eight full stop
+9360	⒐	&#9360;		\002490	0x2490	Digit nine full stop
+9361	⒑	&#9361;		\002491	0x2491	Number ten full stop
+9362	⒒	&#9362;		\002492	0x2492	Number eleven full stop
+9363	⒓	&#9363;		\002493	0x2493	Number twelve full stop
+9364	⒔	&#9364;		\002494	0x2494	Number thirteen full stop
+9365	⒕	&#9365;		\002495	0x2495	Number fourteen full stop
+9366	⒖	&#9366;		\002496	0x2496	Number fifteen full stop
+9367	⒗	&#9367;		\002497	0x2497	Number sixteen full stop
+9368	⒘	&#9368;		\002498	0x2498	Number seventeen full stop
+9369	⒙	&#9369;		\002499	0x2499	Number eighteen full stop
+9370	⒚	&#9370;		\00249a	0x249a	Number nineteen full stop
+9371	⒛	&#9371;		\00249b	0x249b	Number twenty full stop
+9450	⓪	&#9450;		\0024ea	0x24ea	Circled digit zero
+9451	⓫	&#9451;		\0024eb	0x24eb	Dingbat negative circled number evelven
+9452	⓬	&#9452;		\0024ec	0x24ec	Dingbat negative circled number twelve
+9453	⓭	&#9453;		\0024ed	0x24ed	Dingbat negative circled number thirteen
+9454	⓮	&#9454;		\0024ee	0x24ee	Dingbat negative circled number fourteen
+9455	⓯	&#9455;		\0024ef	0x24ef	Dingbat negative circled number fifteen
+9456	⓰	&#9456;		\0024f0	0x24f0	Dingbat negative circled number sixteen
+9457	⓱	&#9457;		\0024f1	0x24f1	Dingbat negative circled number seventeen
+9458	⓲	&#9458;		\0024f2	0x24f2	Dingbat negative circled number eighteen
+9459	⓳	&#9459;		\0024f3	0x24f3	Dingbat negative circled number nineteen
+9460	⓴	&#9460;		\0024f4	0x24f4	Dingbat negative circled number twenty
+10102	❶	&#10102;		\002776	0x2776	Dingbat negative circled digit one
+10103	❷	&#10103;		\002777	0x2777	Dingbat negative circled digit two
+10104	❸	&#10104;		\002778	0x2778	Dingbat negative circled digit three
+10105	❹	&#10105;		\002779	0x2779	Dingbat negative circled digit four
+10106	❺	&#10106;		\00277a	0x277a	Dingbat negative circled digit five
+10107	❻	&#10107;		\00277b	0x277b	Dingbat negative circled digit six
+10108	❼	&#10108;		\00277c	0x277c	Dingbat negative circled digit seven
+10109	❽	&#10109;		\00277d	0x277d	Dingbat negative circled digit eight
+10110	❾	&#10110;		\00277e	0x277e	Dingbat negative circled digit nine
+10111	❿	&#10111;		\00277f	0x277f	Dingbat negative circled number ten
+Religious & Political Symbols
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+1421	֍	&#1421;		\0058d	0x58d	Right facing Armenian eternity sign
+1422	֎	&#1422;		\0058e	0x58e	Left facing Armenian eternity sign
+2384	ॐ	&#2384;		\00950	0x950	Devanagari Om
+9764	☤	&#9764;		\002624	0x2624	Caduceus
+9765	☥	&#9765;		\002625	0x2625	Ankh
+9766	☦	&#9766;		\002626	0x2626	Orthodox cross
+9767	☧	&#9767;		\002627	0x2627	Chi Rho
+9768	☨	&#9768;		\002628	0x2628	Cross of Lorraine
+9769	☩	&#9769;		\002629	0x2629	Cross of Jerusalem
+9770	☪	&#9770;		\00262a	0x262a	Star and Crescent
+9771	☫	&#9771;		\00262b	0x262b	Farsi Symbol
+9772	☬	&#9772;		\00262c	0x262c	Adi Shakti
+9773	☭	&#9773;		\00262d	0x262d	Hammer and Sickle
+9774	☮	&#9774;		\00262e	0x262e	Peace Symbol
+9775	☯	&#9775;		\00262f	0x262f	Yin Yang
+9784	☸	&#9784;		\002638	0x2638	Wheel of Dharma
+10013	✝	&#10013;		\00271d	0x271d	Latin cross
+10014	✞	&#10014;		\00271e	0x271e	Shadowed white Latin cross
+10015	✟	&#10015;		\00271f	0x271f	Outlined Latin Cross
+10016	✠	&#10016;		\002720	0x2720	Maltese cross
+10017	✡	&#10017;		\002721	0x2721	Star of David
+Musical
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+9833	♩	&#9833;		\002669	0x2669	Crotchet / Quarter note
+9834	♪	&#9834;		\00266a	0x266a	Quaver / Eighth note
+9835	♫	&#9835;		\00266b	0x266b	Quaver
+9836	♬	&#9836;		\00266c	0x266c	Double Quaver
+9837	♭	&#9837;		\00266d	0x266d	Flat note
+9838	♮	&#9838;		\00266e	0x266e	Natural Note
+9839	♯	&#9839;		\00266f	0x266f	Sharp Note
+127929	🎹	&#127929;		\001f3b9	0x1f3b9	Keyboard
+127932	🎼	&#127932;		\001f3bc	0x1f3bc	Score
+Unicode Shapes and Symbols
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+2109	࠽	&#2109;		\0083d	0x83d	Degree fahrenheit sign
+8451	℃	&#8451;		\002103	0x2103	Degrees Celsius
+8984	⌘	&#8984;		\002318	0x2318	Place of interest sign
+8986	⌚	&#8986;		\00231a	0x231a	Watch
+8987	⌛	&#8987;		\00231b	0x231b	Egg timer
+8999	⌧	&#8999;		\002327	0x2327	X in a rectangle box
+9000	⌨	&#9000;		\002328	0x2328	Keyboard
+9004	⌬	&#9004;		\00232c	0x232c	Benzine ring
+9043	⍓	&#9043;		\002353	0x2353	APL functional symbol quad up caret
+9632	■	&#9632;		\0025a0	0x25a0	Black square
+9633	□	&#9633;		\0025a1	0x25a1	White square
+9647	▯	&#9647;		\0025af	0x25af	White vertical rectangle
+9670	◆	&#9670;		\0025c6	0x25c6	Black diamond
+9679	●	&#9679;		\0025cf	0x25cf	Black circle
+9728	☀	&#9728;		\002600	0x2600	Black sun with rays
+9729	☁	&#9729;		\002601	0x2601	Cloud
+9730	☂	&#9730;		\002602	0x2602	Umbrella
+9731	☃	&#9731;		\002603	0x2603	Snowman
+9732	☄	&#9732;		\002604	0x2604	Comet
+9742	☎	&#9742;		\00260e	0x260e	Black telephone
+9743	☏	&#9743;		\00260f	0x260f	White telephone
+9745	☑	&#9745;		\002611	0x2611	Ballot box with check
+9746	☒	&#9746;		\002612	0x2612	Ballot box with X
+9752	☘	&#9752;		\002618	0x2618	Clover
+9760	☠	&#9760;		\002620	0x2620	Skull and crossbones
+9762	☢	&#9762;		\002622	0x2622	Radioactive sign
+9763	☣	&#9763;		\002623	0x2623	Biohazard sign
+9785	☹	&#9785;		\002639	0x2639	White frowning face
+9786	☺	&#9786;		\00263a	0x263a	White smiling face
+9788	☼	&#9788;		\00263c	0x263c	White sun with rays
+9789	☽	&#9789;		\00263d	0x263d	First quarter moon
+9790	☾	&#9790;		\00263e	0x263e	Last quarter moon
+9791	☿	&#9791;		\00263f	0x263f	Mercury
+9792	♀	&#9792;		\002640	0x2640	Female sign
+9793	♁	&#9793;		\002641	0x2641	Earth
+9794	♂	&#9794;		\002642	0x2642	Male sign
+9832	♨	&#9832;		\002668	0x2668	Hot springs
+9842	♲	&#9842;		\002672	0x2672	Recycle
+9851	♻	&#9851;		\00267b	0x267b	Recycle
+9852	♼	&#9852;		\00267c	0x267c	Recycle
+9853	♽	&#9853;		\00267d	0x267d	Recycle
+9855	♿	&#9855;		\00267f	0x267f	Disability
+9874	⚒	&#9874;		\002692	0x2692	Hammers
+9875	⚓	&#9875;		\002693	0x2693	Anchor
+9876	⚔	&#9876;		\002694	0x2694	Duelling Swords
+9877	⚕	&#9877;		\002695	0x2695	Staff of aesculapius
+9878	⚖	&#9878;		\002696	0x2696	Scales
+9880	⚘	&#9880;		\002698	0x2698	Flower
+9881	⚙	&#9881;		\002699	0x2699	Gear
+9882	⚚	&#9882;		\00269a	0x269a	Staff of hermes
+9883	⚛	&#9883;		\00269b	0x269b	Atomic
+9884	⚜	&#9884;		\00269c	0x269c	Fleur-de-lis
+9886	⚞	&#9886;		\00269e	0x269e	Three lines converging right
+9887	⚟	&#9887;		\00269f	0x269f	Three lines converging left
+9888	⚠	&#9888;		\0026a0	0x26a0	Caution
+9889	⚡	&#9889;		\0026a1	0x26a1	Electricity
+9890	⚢	&#9890;		\0026a2	0x26a2	
+9891	⚣	&#9891;		\0026a3	0x26a3	
+9892	⚤	&#9892;		\0026a4	0x26a4	
+9893	⚥	&#9893;		\0026a5	0x26a5	
+9894	⚦	&#9894;		\0026a6	0x26a6	
+9895	⚧	&#9895;		\0026a7	0x26a7	
+9896	⚨	&#9896;		\0026a8	0x26a8	
+9897	⚩	&#9897;		\0026a9	0x26a9	
+9904	⚰	&#9904;		\0026b0	0x26b0	
+9905	⚱	&#9905;		\0026b1	0x26b1	
+9906	⚲	&#9906;		\0026b2	0x26b2	
+9907	⚳	&#9907;		\0026b3	0x26b3	
+9908	⚴	&#9908;		\0026b4	0x26b4	
+9909	⚵	&#9909;		\0026b5	0x26b5	
+9924	⛄	&#9924;		\0026c4	0x26c4	
+9951	⛟	&#9951;		\0026df	0x26df	
+9969	⛱	&#9969;		\0026f1	0x26f1	
+9970	⛲	&#9970;		\0026f2	0x26f2	
+9971	⛳	&#9971;		\0026f3	0x26f3	
+9972	⛴	&#9972;		\0026f4	0x26f4	
+9973	⛵	&#9973;		\0026f5	0x26f5	
+9984	✀	&#9984;		\002700	0x2700	
+9985	✁	&#9985;		\002701	0x2701	Upper blade scissors
+9986	✂	&#9986;		\002702	0x2702	Black scissors
+9987	✃	&#9987;		\002703	0x2703	Lower blade scissors
+9988	✄	&#9988;		\002704	0x2704	
+9990	✆	&#9990;		\002706	0x2706	Telephone location sign
+9992	✈	&#9992;		\002708	0x2708	Airplane
+9993	✉	&#9993;		\002709	0x2709	Envelope
+9994	✊	&#9994;		\00270a	0x270a	
+9995	✋	&#9995;		\00270b	0x270b	
+9996	✌	&#9996;		\00270c	0x270c	Victory hand
+9997	✍	&#9997;		\00270d	0x270d	Writing hand
+9998	✎	&#9998;		\00270e	0x270e	Lower Right Pencil
+9999	✏	&#9999;		\00270f	0x270f	Pencil
+10000	✐	&#10000;		\002710	0x2710	Upper Right Pencil
+10003	✓	&#10003;		\002713	0x2713	Check mark
+10004	✔	&#10004;		\002714	0x2714	
+10005	✕	&#10005;		\002715	0x2715	
+10006	✖	&#10006;		\002716	0x2716	
+10007	✗	&#10007;		\002717	0x2717	Ballot X
+10008	✘	&#10008;		\002718	0x2718	
+10047	✿	&#10047;		\00273f	0x273f	Black florette
+10048	❀	&#10048;		\002740	0x2740	White florette
+10049	❁	&#10049;		\002741	0x2741	Eight petalled outlined black florette
+10052	❄	&#10052;		\002744	0x2744	Snowflake
+10061	❍	&#10061;		\00274d	0x274d	Shadowed white circle
+10063	❏	&#10063;		\00274f	0x274f	Lower right drop shadowed white square
+10064	❐	&#10064;		\002750	0x2750	Upper right drop shadowed white square
+10065	❑	&#10065;		\002751	0x2751	Lower right shadowed white square
+10066	❒	&#10066;		\002752	0x2752	Upper right shadowed white square
+10070	❖	&#10070;		\002756	0x2756	Black diamond minus white X
+10731	⧫	&#10731;		\0029eb	0x29eb	Black lozenge
+11047	⬧	&#11047;		\002b27	0x2b27	Black medium lozenge
+128274	🔒	&#128274;		\001f512	0x1f512	Padlock
+Currency
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+8352	₠	&#8352;		\0020a0	0x20a0	Euro-currency sign
+8353	₡	&#8353;		\0020a1	0x20a1	Cent sign
+8356	₤	&#8356;		\0020a4	0x20a4	Pound sterling
+Units
+
+Code	Symbol	Html Code	Html Name	CSS	Hex	Description
+13169	㍱	&#13169;		\003371	0x3371	Hectopascal
+13170	㍲	&#13170;		\003372	0x3372	Dalton (atomic mass)
+13171	㍳	&#13171;		\003373	0x3373	Astronomical Unit
+13172	㍴	&#13172;		\003374	0x3374	Bar (Pressure)
+13173	㍵	&#13173;		\003375	0x3375	
+13174	㍶	&#13174;		\003376	0x3376	Parsec
+13184	㎀	&#13184;		\003380	0x3380	Pico Amps
+13185	㎁	&#13185;		\003381	0x3381	Nano Amps
+13186	㎂	&#13186;		\003382	0x3382	Micro Amps
+13187	㎃	&#13187;		\003383	0x3383	Mega Amps
+13188	㎄	&#13188;		\003384	0x3384	Kilo Amps
+13189	㎅	&#13189;		\003385	0x3385	Kilobyte
+13190	㎆	&#13190;		\003386	0x3386	Megabyte
+13191	㎇	&#13191;		\003387	0x3387	Gigabyte
+13192	㎈	&#13192;		\003388	0x3388	Calories
+13193	㎉	&#13193;		\003389	0x3389	Kilocalories
+13194	㎊	&#13194;		\00338a	0x338a	Pico Farads
+13195	㎋	&#13195;		\00338b	0x338b	Nano Farads
+13196	㎌	&#13196;		\00338c	0x338c	Micro Farads
+13197	㎍	&#13197;		\00338d	0x338d	Micro Grams
+13198	㎎	&#13198;		\00338e	0x338e	Miligrams
+13199	㎏	&#13199;		\00338f	0x338f	Kilograms
+13200	㎐	&#13200;		\003390	0x3390	Hertz
+13201	㎑	&#13201;		\003391	0x3391	Kilohertz
+13202	㎒	&#13202;		\003392	0x3392	Megahertz
+13203	㎓	&#13203;		\003393	0x3393	Gigahertz
+13204	㎔	&#13204;		\003394	0x3394	Terahertz
+13205	㎕	&#13205;		\003395	0x3395	Micro litres
+13206	㎖	&#13206;		\003396	0x3396	Mililitres
+13207	㎗	&#13207;		\003397	0x3397	Decilitres
+13208	㎘	&#13208;		\003398	0x3398	Kilolitres
+13209	㎙	&#13209;		\003399	0x3399	Femtometre
+13210	㎚	&#13210;		\00339a	0x339a	Nanometre
+13211	㎛	&#13211;		\00339b	0x339b	Micrometre
+13212	㎜	&#13212;		\00339c	0x339c	Milimetre
+13213	㎝	&#13213;		\00339d	0x339d	Centimetre
+13214	㎞	&#13214;		\00339e	0x339e	Kilometre
+13215	㎟	&#13215;		\00339f	0x339f	Millimetre squared
+13216	㎠	&#13216;		\0033a0	0x33a0	Centimetre squared
+13217	㎡	&#13217;		\0033a1	0x33a1	Metre squared
+13218	㎢	&#13218;		\0033a2	0x33a2	Kilometre squared
+13219	㎣	&#13219;		\0033a3	0x33a3	Millimetre cubed
+13220	㎤	&#13220;		\0033a4	0x33a4	Centimetre cubed
+13221	㎥	&#13221;		\0033a5	0x33a5	Metre cubed
+13222	㎦	&#13222;		\0033a6	0x33a6	Kilometre cubed
+13223	㎧	&#13223;		\0033a7	0x33a7	Metres per second
+13224	㎨	&#13224;		\0033a8	0x33a8	Acceleration (metres per second per second)
+13225	㎩	&#13225;		\0033a9	0x33a9	Pascal
+13226	㎪	&#13226;		\0033aa	0x33aa	Kilopascal
+13227	㎫	&#13227;		\0033ab	0x33ab	Megapascal
+13228	㎬	&#13228;		\0033ac	0x33ac	Gigapascal
+13229	㎭	&#13229;		\0033ad	0x33ad	Radian
+13230	㎮	&#13230;		\0033ae	0x33ae	Radian per second
+13231	㎯	&#13231;		\0033af	0x33af	Radian per second per second
+13232	㎰	&#13232;		\0033b0	0x33b0	Petasecond
+13233	㎱	&#13233;		\0033b1	0x33b1	Nanosecond
+13234	㎲	&#13234;		\0033b2	0x33b2	Microsecond
+13235	㎳	&#13235;		\0033b3	0x33b3	Millisecond
+13236	㎴	&#13236;		\0033b4	0x33b4	Picovolt
+13237	㎵	&#13237;		\0033b5	0x33b5	Nanovolt
+13238	㎶	&#13238;		\0033b6	0x33b6	Microvolt
+13239	㎷	&#13239;		\0033b7	0x33b7	Milivolt
+13240	㎸	&#13240;		\0033b8	0x33b8	Kilovolt
+13241	㎹	&#13241;		\0033b9	0x33b9	Megavolt
+13242	㎺	&#13242;		\0033ba	0x33ba	Picowatt
+13243	㎻	&#13243;		\0033bb	0x33bb	Nanowatt
+13244	㎼	&#13244;		\0033bc	0x33bc	Microwatt
+13245	㎽	&#13245;		\0033bd	0x33bd	Milliwatt
+13246	㎾	&#13246;		\0033be	0x33be	Kilowatt
+13247	㎿	&#13247;		\0033bf	0x33bf	Megawatt
+13248	㏀	&#13248;		\0033c0	0x33c0	Kilo Ohm
+13249	㏁	&#13249;		\0033c1	0x33c1	Mega Ohm
+13250	㏂	&#13250;		\0033c2	0x33c2	AM
+13251	㏃	&#13251;		\0033c3	0x33c3	Becquerel
+13252	㏄	&#13252;		\0033c4	0x33c4	Cubic Centilitre
+13253	㏅	&#13253;		\0033c5	0x33c5	Candela
+13254	㏆	&#13254;		\0033c6	0x33c6	Content Kilogram
+13255	㏇	&#13255;		\0033c7	0x33c7	
+13256	㏈	&#13256;		\0033c8	0x33c8	Decibel
+13257	㏉	&#13257;		\0033c9	0x33c9	Gray
+13258	㏊	&#13258;		\0033ca	0x33ca	Hectare
+13259	㏋	&#13259;		\0033cb	0x33cb	
+13260	㏌	&#13260;		\0033cc	0x33cc	
+13261	㏍	&#13261;		\0033cd	0x33cd	
+13262	㏎	&#13262;		\0033ce	0x33ce	
+13263	㏏	&#13263;		\0033cf	0x33cf	
+13264	㏐	&#13264;		\0033d0	0x33d0	
+13265	㏑	&#13265;		\0033d1	0x33d1	
+13266	㏒	&#13266;		\0033d2	0x33d2	
+13267	㏓	&#13267;		\0033d3	0x33d3	
+13268	㏔	&#13268;		\0033d4	0x33d4	
+13269	㏕	&#13269;		\0033d5	0x33d5	
+13270	㏖	&#13270;		\0033d6	0x33d6	Mol
+13271	㏗	&#13271;		\0033d7	0x33d7	pH
+13272	㏘	&#13272;		\0033d8	0x33d8	
+13273	㏙	&#13273;		\0033d9	0x33d9	Parts Per Million
+13274	㏚	&#13274;		\0033da	0x33da	
+13275	㏛	&#13275;		\0033db	0x33db	
+13276	㏜	&#13276;		\0033dc	0x33dc	
+13277	㏝	&#13277;		\0033dd	0x33dd	
